@@ -1,0 +1,24 @@
+{
+  "name": "calendarfacts",
+  "version": "1.0.0",
+  "description": "A NPM library to generate \"facts\" from https://xkcd.com/1930/",
+  "main": "module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codingJWilliams/CalendarFacts.git"
+  },
+  "keywords": [
+    "xkcd",
+    "facts",
+    "useless"
+  ],
+  "author": "Jay Williams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codingJWilliams/CalendarFacts/issues"
+  },
+  "homepage": "https://github.com/codingJWilliams/CalendarFacts#readme"
+}
